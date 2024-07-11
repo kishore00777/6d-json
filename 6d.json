@@ -1,0 +1,175 @@
+{
+  "jobs": [
+    {
+      "jobName": "Shift Chemist",
+      "companyName": "ABC Med Ltd",
+      "workLocation": "hydrebad",
+      "submission": "5 oct 2024",
+      "hiringDate": "5 oct 2024",
+      "stipend": "₹25k",
+      "hiringPosition": "Internship",
+      "id": "2499"
+    },
+    {
+      "jobName": "Visual Inspector",
+      "companyName": "ABC Med Ltd",
+      "workLocation": "hydrebad",
+      "submission": "5 oct 2024",
+      "hiringDate": "5 oct 2024",
+      "stipend": "₹25k",
+      "hiringPosition": "Part Time",
+      "id": "1875"
+    },
+    {
+      "jobName": "Warehouse Inspector",
+      "companyName": "ABC Med Ltd",
+      "workLocation": "hydrebad",
+      "submission": "5 oct 2024",
+      "hiringDate": "5 oct 2024",
+      "stipend": "₹25k",
+      "hiringPosition": "Full Time",
+      "id": "d449"
+    },
+    {
+      "id": "2499",
+      "jobName": "Shift Chemist",
+      "companyName": "ABC Med Ltd",
+      "workLocation": "hydrebad",
+      "submission": "5 oct 2024",
+      "hiringDate": "5 oct 2024",
+      "stipend": "₹25k",
+      "hiringPosition": "Internship"
+    }
+  ],
+  "certificates": [
+    {
+      "courseName": "Leadership and Initiative",
+      "id": "2c76"
+    },
+    {
+      "courseName": "Proffessionalism and Work Ethic",
+      "id": "76d9"
+    },
+    {
+      "courseName": "Digital Literacy",
+      "id": "90f7"
+    },
+    {
+      "courseName": "Basic It Skills",
+      "id": "741a"
+    }
+  ],
+  "getStarted": [
+    {
+      "type": "Personal Info",
+      "value": 40,
+      "id": "ffb7"
+    },
+    {
+      "type": "Education Details",
+      "value": 10,
+      "id": "c5b5"
+    },
+    {
+      "type": "Work Experience",
+      "value": 0,
+      "id": "f901"
+    }
+  ],
+  "applications": [
+    {
+      "title": "6DAP-OOAMP",
+      "status": "InProgress",
+      "id": "f3da"
+    },
+    {
+      "title": "6DAP-OOAWV",
+      "status": "Submitted",
+      "id": "f8c8"
+    },
+    {
+      "title": "6DAP-OOMDP",
+      "status": "InProgress",
+      "id": "a909"
+    },
+    {
+      "title": "6DAP-OOWET",
+      "status": "Rejected",
+      "id": "2f5e"
+    }
+  ],
+  "certifications": [
+    {
+      "course": "6GU-001 Leadership and Initiative",
+      "progress": 100,
+      "id": "6c14"
+    },
+    {
+      "course": "6GU-002 Professionalism and Work Ethics",
+      "progress": 1,
+      "id": "ba1b"
+    },
+    {
+      "course": "6GU-003 Digital Literacy",
+      "progress": 20,
+      "id": "a4aa"
+    },
+    {
+      "course": "6GU-005 Communication Skills (Listening, Written & Verbal)",
+      "progress": 40,
+      "id": "77ed"
+    },
+    {
+      "course": "6GU-004 Basic IT Skills",
+      "progress": 1,
+      "id": "8c36"
+    }
+  ],
+  "sliderModel": [
+    {
+      "course": "6GU-001 Leadership and Initiative",
+      "completed": "5",
+      "pending": "6",
+      "progress": 100,
+      "timespent": 113,
+      "module": "Module 3/1.3",
+      "id": "284d"
+    },
+    {
+      "course": "6GU-002 Professionalism and Work Ethics",
+      "completed": "2",
+      "pending": "3",
+      "progress": 1,
+      "timespent": 100,
+      "module": "Module 11/12.4",
+      "id": "8c03"
+    },
+    {
+      "course": "6GU-003 Digital Literacy",
+      "completed": "3",
+      "pending": "1",
+      "progress": 20,
+      "timespent": 90,
+      "module": "Module 5/5.2",
+      "id": "9c60"
+    },
+    {
+      "course": "6GU-005 Communication Skills (Listening, Written & Verbal)",
+      "completed": "7",
+      "pending": "4",
+      "progress": 40,
+      "timespent": 119,
+      "module": "Module 1/1.2",
+      "id": "1741"
+    },
+    {
+      "course": "6GU-004 Basic IT Skills",
+      "completed": "4",
+      "pending": "5",
+      "progress": 1,
+      "timespent": 120,
+      "module": "Module 7/7.2",
+      "id": "1ca9"
+    }
+  ]
+}
